@@ -24,9 +24,9 @@ Each problem includes:
 
 ## ✅ Progress Tracker
 
-| # | Problem | Topic | Solution |
-|--:|---------|-------|----------|
-| 1 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Sliding Window | [✅ Python](./643. Maximum Average Subarray Ivv.py) |
+| # |   Problem  | Topic | Solution |
+|--:|------------|-------|----------|
+| 1 | [643. Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Sliding Window | [✅ Python](https://github.com/VeronicaMagnus1909/Leetcodes75/blob/main/643.%20Maximum%20Average%20Subarray%20Ivv) |
 
 
 
