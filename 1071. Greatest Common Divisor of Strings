@@ -1,0 +1,21 @@
+
+
+class Solution(object):
+    def gcdOfStrings(self, str1, str2):
+        """
+        :type str1: str
+        :type str2: str
+        :rtype: str
+        """
+        def gcd(a, b):
+            while b:
+                a, b = b, a % b
+            return a
+
+        g = gcd(len(str1), len(str2))
+        x = str1[:g]
+
+        if str1 == x * (len(str1) // g) and str2 == x * (len(str2) // g):
+            return x
+        else:
+            return ""
